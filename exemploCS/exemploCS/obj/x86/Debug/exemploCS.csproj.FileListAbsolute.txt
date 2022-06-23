@@ -1,0 +1,4 @@
+D:\JM\DLock\pms-vc_v7.1\exemploCS\exemploCS\bin\Debug\exemploCS.exe
+D:\JM\DLock\pms-vc_v7.1\exemploCS\exemploCS\bin\Debug\exemploCS.pdb
+D:\JM\DLock\pms-vc_v7.1\exemploCS\exemploCS\obj\x86\Debug\exemploCS.exe
+D:\JM\DLock\pms-vc_v7.1\exemploCS\exemploCS\obj\x86\Debug\exemploCS.pdb
